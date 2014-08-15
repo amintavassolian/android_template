@@ -1,4 +1,3 @@
 android_template
 ================
-
-This is template for Android projects
+This is a template repository for other projects
